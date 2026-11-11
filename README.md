@@ -8,10 +8,10 @@ Projeto prático desenvolvido na Unidade Curricular de **Linguagem de Marcação
 
 
 ## 🌐 Links das Páginas Publicadas (GitHub Pages)
-- 🏠 [Vitrine Principal (index.html)](https://SEU-USUARIO.github.io/MEU-ECOMMERCE/index.html)
-- 🔍 [Detalhes do Produto (produto.html)](https://SEU-USUARIO.github.io/MEU-ECOMMERCE/produto.html)
-- 🛍️ [Carrinho de Compras (carrinho.html)](https://SEU-USUARIO.github.io/MEU-ECOMMERCE/carrinho.html)
-- 👤 [Cadastro e Checkout (cadastro.html)](https://SEU-USUARIO.github.io/MEU-ECOMMERCE/cadastro.html)
+- 🏠 [Vitrine Principal (index.html)](https://anapasso-spec.github.io/folia-urbana/index.html)
+- 🔍 [Detalhes do Produto (produto.html)](https://anapasso-spec.github.io/folia-urbana/produto.html)
+- 🛍️ [Carrinho de Compras (carrinho.html)](https://anapasso-spec.github.io/folia-urbana/carrinho.html)
+- 👤 [Cadastro e Checkout (cadastro.html)](https://anapasso-spec.github.io/folia-urbana/cadastro.html)
 
 
 ---
